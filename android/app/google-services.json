@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "525920968814",
+    "firebase_url": "https://flutter-update-945ca-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutter-update-945ca",
+    "storage_bucket": "flutter-update-945ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525920968814:android:5880b0d5cb69b1f64d867f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525920968814-e3rgn5r2rlgkrmrqgjdnejkrce66aa0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWE3eWNWMjiEeidf9zo-NhTZrHKkZBfR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525920968814-e3rgn5r2rlgkrmrqgjdnejkrce66aa0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525920968814-fla7mps0dkn55gi2j12av4vg9853blqu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

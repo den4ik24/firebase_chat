@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>525920968814-fla7mps0dkn55gi2j12av4vg9853blqu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.525920968814-fla7mps0dkn55gi2j12av4vg9853blqu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDN8ai2r3KT91P93p-F2gO4FRQel7nZVbA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>525920968814</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebaseChat</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-update-945ca</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-update-945ca.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:525920968814:ios:b275fc47db3e529e4d867f</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-update-945ca-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
